@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vavadiya Bhavik</h1>
-<h3 align="center">A passionate Web-developer, 3D Designer</h3>
+<h3 align="center">A passionate Web-developer, Data scientist</h3>
 
 - 🔭 I’m currently working on [Rapid Unit Converter](https://xphantom07.github.io/Unit-conveter-web/)
 
