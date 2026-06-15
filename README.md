@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Vavadiya Bhavik</h1>
 <h3 align="center">A passionate Web-developer, Data scientist</h3>
 
-- 🔭 I’m currently working on [Rapid Unit Converter](https://xphantom07.github.io/Unit-conveter-web/)
+- 🔭 I’m currently working on [Heart disease Prediction](https://github.com/Xphantom07/Heart-disease-Prediction)
 
-- 🌱 I’m currently learning **SpringBoot, Blender**
+- 🌱 I’m currently learning **Machine Learning, PowerBI**
 
-- 🤝 I’m looking for help with [Rapid Unit Converter](https://xphantom07.github.io/Unit-conveter-web/)
-
-- 💬 Ask me about **Java, javascript**
+- 💬 Ask me about **Python, Advanced Excel**
 
 - 📫 How to reach me **bhavikprajapati28195@gmail.com**
 
