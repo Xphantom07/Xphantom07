@@ -9,12 +9,6 @@
 
 - 📫 How to reach me **bhavikprajapati28195@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/bhavik vavadiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhavik vavadiya" height="30" width="40" /></a>
-<a href="https://instagram.com/bhavik_prajapati07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bhavik_prajapati07" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/xpahntom07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="xpahntom07" height="30" width="40" /></a>
-</p>
 
 ## 🚀 Languages
 
@@ -27,8 +21,6 @@
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 
 </p>
-
----
 
 ## 🛠️ Data Science & Analytics Tools
 
@@ -59,6 +51,26 @@
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 
 </p>
+
+
+
+
+## 🏆 Achievements
+
+🏅 NPTEL Certified – Data Structures and Algorithms with Java
+
+🏅 Developed multiple academic and personal projects in Data Analytics and Web Development
+
+### 🌐 Portfolio Website
+personal portfolio website showcasing projects and achievements. [Portfolio](https://portfolio-delta-dusky-71.vercel.app/)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/bhavik vavadiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhavik vavadiya" height="30" width="40" /></a>
+<a href="https://instagram.com/bhavik_prajapati07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bhavik_prajapati07" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/xpahntom07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="xpahntom07" height="30" width="40" /></a>
+</p>
+
 <!---
 Xphantom07/Xphantom07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
