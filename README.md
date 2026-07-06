@@ -62,7 +62,7 @@
 🏅 Developed multiple academic and personal projects in Data Analytics and Web Development
 
 ### 🌐 Portfolio Website
-personal portfolio website showcasing projects and achievements. [Portfolio](https://portfolio-delta-dusky-71.vercel.app/)
+personal portfolio website showcasing projects and achievements. www.iambhavik.dev
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
